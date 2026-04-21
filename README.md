@@ -8,7 +8,7 @@ A Java-based application for managing car and driver information.
 - Display driver details
 - Simple data management system
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Java
 
 ##  Description
